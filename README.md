@@ -16,3 +16,7 @@ pip install -r requirements.txt
 ## Run
 
 The example is run in the `power_vs_energy.ipynb` notebook.
+
+## Contact
+
+For questions or to learn more about PyBaMM, please contact us at [info@ionworks.com](mailto:info@ionworks.com).
